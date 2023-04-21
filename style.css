@@ -1,0 +1,39 @@
+body{
+margin: 0;
+padding: 0;
+background: url(background.jpg);
+background-size: cover;
+text-align: center;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+
+img{
+width: 350px;
+height: 370px;
+object-fit: cover;
+border-radius: 50px;
+transition: width 0.7s;
+
+}
+
+img:hover{
+width: 500px;
+}
+
+.date1{
+font-style: italic;
+font-weight: 525;
+font-size: 20px;
+}
+
+.date2{
+font-style: italic;
+font-weight: 525;
+font-size: 20px;
+}
+
+h1{
+  font-family: Times New Roman, sans-serif;
+}
+
