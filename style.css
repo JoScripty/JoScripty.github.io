@@ -9,8 +9,8 @@ background-repeat: no-repeat;
 }
 
 img{
-width: 350px;
-height: 370px;
+width: 300px;
+height: 330px;
 object-fit: cover;
 border-radius: 50px;
 transition: width 0.7s;
@@ -18,18 +18,18 @@ transition: width 0.7s;
 }
 
 img:hover{
-width: 500px;
+width: 400px;
 }
 
 .date1{
 font-style: italic;
-font-weight: 525;
+font-weight: 500;
 font-size: 20px;
 }
 
 .date2{
 font-style: italic;
-font-weight: 525;
+font-weight: 500;
 font-size: 20px;
 }
 
